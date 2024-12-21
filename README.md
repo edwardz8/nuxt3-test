@@ -5,9 +5,9 @@
 I'm running into an issue with dynamic routing in a Nuxt 3, Ionic and Sanity project. I have a live test project in production:
 
 Repo: https://github.com/edwardz8/nuxt3-test 
-Live Test Site: https://nuxt3-test-lilac-delta.vercel.app/
+Live Test Site: https://nuxt3-ionic-sanity.vercel.app/
 
-When attempting to go to a single route param on this page: https://nuxt3-test-lilac-delta.vercel.app/blog 
+When attempting to go to a single route param on this page: https://nuxt3-ionic-sanity.vercel.app/blog
 
 I get the following error: 
 
